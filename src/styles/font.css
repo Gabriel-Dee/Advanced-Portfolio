@@ -1,0 +1,15 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/NunitoMedium.ttf"); font-family : "Nunito"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/NunitoBold.ttf"); font-family : "Nunito"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/IBMPlexSans.ttf"); font-family : "IBM Plex Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/IBMPlexSerifBold.ttf"); font-family : "IBM Plex Serif"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/IBMPlexSansBold.ttf"); font-family : "IBM Plex Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PoppinsMedium.ttf"); font-family : "Poppins"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/IBMPlexSansMedium.ttf"); font-family : "IBM Plex Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : italic; src: url("assets/fonts/IBMPlexSansBoldItalic.ttf"); font-family : "IBM Plex Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : italic; src: url("assets/fonts/IBMPlexSansSemiBoldItalic.ttf"); font-family : "IBM Plex Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/JostRomanRegular.ttf"); font-family : "Jost"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/IBMPlexSansSemiBold.ttf"); font-family : "IBM Plex Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansRegular.ttf"); font-family : "IBM Plex Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoRegular.ttf"); font-family : "Nunito"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/NunitoSemiBold.ttf"); font-family : "Nunito"; font-weight : 600;  }

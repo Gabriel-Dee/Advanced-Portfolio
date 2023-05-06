@@ -1,0 +1,45 @@
+module.exports = {
+  mode: "jit",
+  content: [
+    "./src/**/**/*.{js,ts,jsx,tsx,html,mdx}",
+    "./src/**/*.{js,ts,jsx,tsx,html,mdx}",
+  ],
+  darkMode: "class",
+  theme: {
+    screens: { md: { max: "1050px" }, sm: { max: "550px" } },
+    extend: {
+      colors: {
+        white_A700_6c: "#ffffff6c",
+        red_A100_6c: "#f785856c",
+        red_A100: "#f78585",
+        gray_900_cc: "#141313cc",
+        white_A700_a2: "#ffffffa2",
+        gray_900: "#141313",
+        gray_900_01: "#191917",
+        gray_900_6c: "#1413136c",
+        light_blue_400: "#1abcfe",
+        orange_300: "#ffb147",
+        gray_900_19: "#14131319",
+        gray_50: "#fbfbfb",
+        gray_900_0c: "#1413130c",
+        white_A700_33: "#ffffff33",
+        black_900_01: "#010101",
+        black_900: "#060200",
+        deep_orange_300: "#ff6c63",
+        indigo_700: "#252fba",
+        white_A700: "#ffffff",
+        purple_300: "#b86adf",
+      },
+      fontFamily: {
+        ibmplexsans: "IBM Plex Sans",
+        ibmplexserif: "IBM Plex Serif",
+        poppins: "Poppins",
+        jost: "Jost",
+      },
+      backgroundImage: {
+        gradient: "linear-gradient(272deg ,#ffb147,#ff6c63,#b86adf)",
+      },
+    },
+  },
+  plugins: [require("@tailwindcss/forms")],
+};
